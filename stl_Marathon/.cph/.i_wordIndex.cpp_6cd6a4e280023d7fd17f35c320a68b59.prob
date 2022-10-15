@@ -1,0 +1,1 @@
+{"name":"Local: i_wordIndex","url":"c:\\Programming\\stl_Marathon\\i_wordIndex.cpp","tests":[{"id":1665020413296,"input":"z\na\ncat\nvwxyz","output":""},{"id":1665020542548,"input":"abc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\stl_Marathon\\i_wordIndex.cpp","group":"local","local":true}

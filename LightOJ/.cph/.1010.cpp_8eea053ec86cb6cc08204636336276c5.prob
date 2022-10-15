@@ -1,0 +1,1 @@
+{"name":"Local: 1010","url":"c:\\Programming\\LightOJ\\1010.cpp","tests":[{"id":1663483520794,"input":"3\n8 8\n3 7\n4 10","output":"Case 1: 32\nCase 2: 11\nCase 3: 20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\LightOJ\\1010.cpp","group":"local","local":true}

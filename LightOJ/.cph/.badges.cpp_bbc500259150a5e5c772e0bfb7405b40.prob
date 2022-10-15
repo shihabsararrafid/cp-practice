@@ -1,0 +1,1 @@
+{"name":"Local: badges","url":"c:\\Programming\\LightOJ\\badges.cpp","tests":[{"id":1663326747095,"input":"5\n6\n3\n","output":"4\n"},{"id":1663326757893,"input":"5\n3\n5\n","output":"4\n"},{"id":1663326853518,"input":"1\n200\n33","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\LightOJ\\badges.cpp","group":"local","local":true}

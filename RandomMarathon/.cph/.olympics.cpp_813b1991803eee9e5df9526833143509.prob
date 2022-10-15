@@ -1,0 +1,1 @@
+{"name":"Local: olympics","url":"c:\\Programming\\RandomMarathon\\olympics.cpp","tests":[{"id":1663909343606,"input":"2\n3 : 2\n5 : 4","output":""},{"id":1663948257072,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\RandomMarathon\\olympics.cpp","group":"local","local":true}

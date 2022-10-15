@@ -1,0 +1,1 @@
+{"name":"Local: 1225","url":"c:\\Programming\\LightOJ\\1225.cpp","tests":[{"id":1663296656792,"input":"5\n1\n21\n16161\n523125\n0","output":"Case 1: Yes\nCase 2: No\nCase 3: Yes\nCase 4: No\nCase 5: Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\LightOJ\\1225.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: coloredBalls","url":"c:\\Programming\\Problem Solving\\Upsolving\\coloredBalls.cpp","tests":[{"id":1662650606951,"input":"3\n3\n1 1 1\n1\n9\n2\n4 7\n","output":"3\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\Problem Solving\\Upsolving\\coloredBalls.cpp","group":"local","local":true}

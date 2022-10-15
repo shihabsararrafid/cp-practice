@@ -1,0 +1,1 @@
+{"name":"Local: hamster","url":"c:\\Programming\\RandomMarathon\\hamster.cpp","tests":[{"id":1663932861086,"input":"19 3\n5 4 10\n","output":""},{"id":1663933038316,"input":"28 3\n5 6 30\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\RandomMarathon\\hamster.cpp","group":"local","local":true}
